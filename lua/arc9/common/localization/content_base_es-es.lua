@@ -2,46 +2,46 @@ L = {}
 
 -- Folders
 L["folder.arc9"] = "ARC9"
-L["folder.arc9.community"] = "Community"
+L["folder.arc9.community"] = "Comunidad"
 
-L["attachment.sticker"] = "Sticker"
+L["attachment.sticker"] = "Pegatina"
 
 -- Flat Camo
-L["camo_arc9_base_flat_od.printname"] = "Verde Oliva"
+L["camo_arc9_base_flat_od.printname"] = "Verde oliva"
 L["camo_arc9_base_flat_od.compactname"] = "VO"
-L["camo_arc9_base_flat_od.description"] = "Camuflaje Verde Oliva estándar."
+L["camo_arc9_base_flat_od.description"] = "Camuflaje verde oliva estándar."
 
-L["camo_arc9_base_flat_deserttan.printname"] = "Bronceado Desértico"
+L["camo_arc9_base_flat_deserttan.printname"] = "Bronceado desértico"
 L["camo_arc9_base_flat_deserttan.compactname"] = "Bronceado"
-L["camo_arc9_base_flat_deserttan.description"] = "Camuflaje Bronceado Desértico estándar."
+L["camo_arc9_base_flat_deserttan.description"] = "Camuflaje bronceado desértico estándar."
 
-L["camo_arc9_base_flat_arctic.printname"] = "Blanco Ártico"
+L["camo_arc9_base_flat_arctic.printname"] = "Blanco ártico"
 L["camo_arc9_base_flat_arctic.compactname"] = "Ártico"
-L["camo_arc9_base_flat_arctic.description"] = "Camuflaje Blanco Ártico estándar."
+L["camo_arc9_base_flat_arctic.description"] = "Camuflaje blanco ártico estándar."
 
-L["camo_arc9_base_flat_black.printname"] = "Negro de Fábrica"
+L["camo_arc9_base_flat_black.printname"] = "Negro de fábrica"
 L["camo_arc9_base_flat_black.compactname"] = "Negro"
 L["camo_arc9_base_flat_black.description"] = "Negro estándar de fábrica."
 
-L["camo_arc9_base_flat_urbangray.printname"] = "Gris Urbano"
+L["camo_arc9_base_flat_urbangray.printname"] = "Gris urbano"
 L["camo_arc9_base_flat_urbangray.compactname"] = "Urbano"
-L["camo_arc9_base_flat_urbangray.description"] = "Camuflaje Gris Urbano estándar."
+L["camo_arc9_base_flat_urbangray.description"] = "Camuflaje gris urbano estándar."
 
-L["camo_arc9_base_flat_forestgreen.printname"] = "Verde Bosque"
+L["camo_arc9_base_flat_forestgreen.printname"] = "Verde bosque"
 L["camo_arc9_base_flat_forestgreen.compactname"] = "Bosque"
-L["camo_arc9_base_flat_forestgreen.description"] = "Camuflaje Verde Bosque estándar."
+L["camo_arc9_base_flat_forestgreen.description"] = "Camuflaje verde bosque estándar."
 
-L["camo_arc9_base_flat_navy.printname"] = "Azul Marino"
+L["camo_arc9_base_flat_navy.printname"] = "Azul marino"
 L["camo_arc9_base_flat_navy.compactname"] = "Marino"
-L["camo_arc9_base_flat_navy.description"] = "Color Azul Marino estándar."
+L["camo_arc9_base_flat_navy.description"] = "Color azul marino estándar."
 
 L["camo_arc9_base_flat_mountbattenpink.printname"] = "Rosa Mountbatten"
 L["camo_arc9_base_flat_mountbattenpink.compactname"] = "RM"
 L["camo_arc9_base_flat_mountbattenpink.description"] = "Camuflaje rosa Mountbatten estándar.\nSorprendentemente eficaz en condiciones desérticas."
 
-L["camo_arc9_base_flat_fde.printname"] = "Tierra Oscura Plana"
+L["camo_arc9_base_flat_fde.printname"] = "Tierra oscura plana"
 L["camo_arc9_base_flat_fde.compactname"] = "TOP"
-L["camo_arc9_base_flat_fde.description"] = "Camuflaje estándar Tierra Oscura Plana."
+L["camo_arc9_base_flat_fde.description"] = "Camuflaje estándar tierra oscura Plana."
 
 -- Flat Colour
 L["camo_arc9_base_flat_red.printname"] = "Rojo"
@@ -78,7 +78,7 @@ L["camo_arc9_base_flat_arc9orange.description"] = "El tono de naranja perfecto p
 
 -- Charms
 L["charm_gs_killcounter.printname"] = "Contador de muertes"
-L["charm_gs_killcounter.compactname"] = "KILL"
+L["charm_gs_killcounter.compactname"] = "MUERTES"
 L["charm_gs_killcounter.description"] = "Dispositivo para seguir las estadísticas de muerte de tu arma."
 
 L["charm_gs_clock.printname"] = "Reloj básico"
@@ -90,24 +90,24 @@ L["charm_gs_sticker.compactname"] = "PEGATINA"
 L["charm_gs_sticker.description"] = "Dispositivo que permite aplicar una pegatina personalizada en su pantalla."
 
 -- Stickers, Base
-L["sticker_spray.printname"] = "Spray de Jugador"
+L["sticker_spray.printname"] = "Spray de jugador"
 L["sticker_spray.compactname"] = "Spray"
 L["sticker_spray.description"] = [[¡Tu propio spray como pegatina!
 Solo podrás ver los tuyos y no los de otros jugadores.
 
 Pegatina incluida en la base ARC9.]]
 
-L["sticker_arc9.printname"] = "Logotipo ARC9 (Baja Vis.)"
+L["sticker_arc9.printname"] = "Logotipo ARC9 (Baja vis.)"
 L["sticker_arc9.compactname"] = "ARC9"
 L["sticker_arc9.description"] = [[Versión oscura del logotipo de ARC9.
-Diseño de The Villain.
+Diseño de Neosun.
 
 Pegatina incluida en la base ARC9.]]
 
 L["sticker_arc9_lowvis.printname"] = "Logotipo ARC9"
 L["sticker_arc9_lowvis.compactname"] = "ARC9"
-L["sticker_arc9_lowvis.description"] = [[Por ti.
-Diseño de The Villain.
+L["sticker_arc9_lowvis.description"] = [[Para ti.
+Diseño de Neosun.
 
 Pegatina incluida en la base ARC9.]]
 
@@ -117,7 +117,7 @@ L["sticker_a9k.description"] = [[esto es lo que "arc9" significa en realidad
 
 Pegatina incluida en la base ARC9.]]
 
-L["sticker_a9cylo.printname"] = "ARC9 Logotipo conceptual de CyloWalker"
+L["sticker_a9cylo.printname"] = "Logotipo conceptual de ARC9 de CyloWalker"
 L["sticker_a9cylo.compactname"] = "A9 Cylo"
 L["sticker_a9cylo.description"] = [[Uno de los primeros conceptos para el logotipo/icono de ARC9 por CyloWalker (¡es genial!)
 
@@ -131,15 +131,15 @@ Diseño de Darsu.
 Pegatina incluida en la base ARC9.]]
 
 -- Stickers, Com. Wave 1
-L["sticker_alien_lean.printname"] = "Legalizar Magro Alien"
+L["sticker_alien_lean.printname"] = "Legalizen el magro alienígena"
 L["sticker_alien_lean.compactname"] = "Magro Alien"
 L["sticker_alien_lean.description"] = [[Baja a Agartha con los chicos blancos para tomar una taza de magro alienígena y... otras cosas.
 Diseño de Opt1ca.
 
 Pegatina incluida en la base ARC9.]]
 
-L["sticker_tomatocat.printname"] = "Gato Tomate"
-L["sticker_tomatocat.compactname"] = "Gato Tomate"
+L["sticker_tomatocat.printname"] = "Gato tomate"
+L["sticker_tomatocat.compactname"] = "Gato tomate"
 L["sticker_tomatocat.description"] = [[A veces la gente pregunta si los tomates son frutas o verduras... Ésta puede ser una pregunta más difícil.
 Diseño de Ender2Point0.
 
@@ -166,28 +166,28 @@ Diseño de Stan_Jacobs.
 
 Pegatina incluida en la base ARC9.]]
 
-L["sticker_muertosskull.printname"] = "Dia De Los Muertos Calavera"
+L["sticker_muertosskull.printname"] = "Calavera del día de los muertos"
 L["sticker_muertosskull.compactname"] = "Los Muertos"
-L["sticker_muertosskull.description"] = [["esta deberia ser mi version final creo, a menos que alguien me de sugerencias para cambiarla, el nombre: "Dia de los muertos calavera" la descripcion: no se me ocurre una, algo sobre dia de los muertos calavera mexico bla bla bla"
+L["sticker_muertosskull.description"] = [["esta deberia ser mi version final creo, a menos que alguien me de sugerencias para cambiarla, el nombre: "Calavera del día de los muertos" la descripcion: no se me ocurre una, algo sobre una calavera del dia de los muertos mexico bla bla bla"
 Diseño de rooneyviz.
 
 Pegatina incluida en la base ARC9.]]
 
 L["sticker_bandaid.printname"] = "Tirita"
 L["sticker_bandaid.compactname"] = "Tirita"
-L["sticker_bandaid.description"] = [[Póntelo en tu boo-boo y bésalo todo mejor.
+L["sticker_bandaid.description"] = [[Póntelo en tu pupita y dale un besito para curarla.
 Diseño de Itzal.
 
 Pegatina incluida en la base ARC9.]]
 
-L["sticker_peacedove.printname"] = "Paz Mediante Potencia de Fuego Superior"
+L["sticker_peacedove.printname"] = "Paz mediante potencia de fuego superior"
 L["sticker_peacedove.compactname"] = "PMPFS"
 L["sticker_peacedove.description"] = [[La paloma trae la paz, pero la pistola la trae gracias a una potencia de fuego superior.
 Diseño de Xipil.
 
 Pegatina incluida en la base ARC9.]]
 
-L["sticker_borntomodify.printname"] = "Nacido para Modificar"
+L["sticker_borntomodify.printname"] = "Nacido para modificar"
 L["sticker_borntomodify.compactname"] = "NPM"
 L["sticker_borntomodify.description"] = [[Otra mira - otro visor - un lanzagranadas, aquí y allá...
 Diseño de Duck.
@@ -208,8 +208,8 @@ Diseño de Itzal.
 
 Pegatina incluida en la base ARC9.]]
 
-L["sticker_hotlead.printname"] = "Plomo Caliente"
-L["sticker_hotlead.compactname"] = "Plomo Caliente"
+L["sticker_hotlead.printname"] = "Plomo caliente"
+L["sticker_hotlead.compactname"] = "Plomo caliente"
 L["sticker_hotlead.description"] = [[¡Cuidado! ¡Está caliente!
 Diseño de Arqu.
 
@@ -266,14 +266,14 @@ Pegatina incluida en la base ARC9.]]
 
 L["sticker_drawberf.printname"] = "Berf"
 L["sticker_drawberf.compactname"] = "Berf"
-L["sticker_drawberf.description"] = [[Dibujar Berf.
-Diseño de The Villain.
+L["sticker_drawberf.description"] = [[Dibuja Berf.
+Diseño de Neosun.
 
 Pegatina incluida en la base ARC9.]]
 
-L["sticker_arcbird.printname"] = "Pajaro Arc"
-L["sticker_arcbird.compactname"] = "Pajaro Arc"
-L["sticker_arcbird.description"] = [[Pajaro Arc.
+L["sticker_arcbird.printname"] = "Pájaro Arc"
+L["sticker_arcbird.compactname"] = "Pájaro Arc"
+L["sticker_arcbird.description"] = [[Pájaro Arc.
 Diseño de Nori/Chewable.
 
 Pegatina incluida en la base ARC9.]]
